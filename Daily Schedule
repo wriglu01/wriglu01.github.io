@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <title>Daily Schedule</title>
+   <style>
+body {
+    background-image: url("http://wallmeta.com/wp-content/uploads/2015/02/Hawaii-Awesome-Wallpaper-Gallery-Desktop.jpg");
+     }
+  </style>
+  </head>
+  <body>
+  <table>
+    <caption>Daily Schedule</caption>
+      <tr>
+        <th>Time</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+      </tr>
+      <tr>
+        <td>7:00 AM</td>
+        <td>Shower</td>
+        <td>Shower</td>
+        <td>Shower</td>
+        <td>Shower</td>
+        <td>Shower</td>
+      </tr>
+      <tr>
+        <td>7:15 AM</td>
+        <td column span=3>Breakfast</td>
+        <td column span=3>Breakfast</td>
+        <td column span=3>Breakfast</td>
+        <td column span=3>Breakfast</td>
+        <td column span=3>Breakfast</td>
+      </tr>
+  </table>
+       
+       
+  </body>
+</html>

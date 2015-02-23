@@ -29,411 +29,411 @@ body {
       </tr>
       <tr>
         <td>7:15 AM</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
      </tr>
      <tr>
         <td>7:30 AM</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
      </tr>
      <tr>
         <td>7:45 AM</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
-        <td column span=3>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
+        <td>Breakfast</td>
      </tr>
      <tr>
         <td>8:00 AM</td>
-        <td column span=3>Math 110</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Math 110</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Math 110</td>
+        <td>Math 110</td>
+        <td>Homework</td>
+        <td>Math 110</td>
+        <td>Homework</td>
+        <td>Math 110</td>
      </tr>
      <tr>
         <td>8:15 AM</td>
-        <td column span=3>Math 110</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Math 110</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Math 110</td>
+        <td>Math 110</td>
+        <td>Homework</td>
+        <td>Math 110</td>
+        <td>Homework</td>
+        <td>Math 110</td>
      </tr>
      <tr>
         <td>8:30 AM</td>
-        <td column span=3>Math 110</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Math 110</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Math 110</td>
+        <td>Math 110</td>
+        <td>Homework</td>
+        <td>Math 110</td>
+        <td>Homework</td>
+        <td>Math 110</td>
      </tr>
      <tr>
         <td>8:45 AM</td>
-        <td column span=3>Math 110</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Math 110</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Math 110</td>
+        <td>Math 110</td>
+        <td>Homework</td>
+        <td>Math 110</td>
+        <td>Homework</td>
+        <td>Math 110</td>
      </tr>
      <tr>
         <td>9:00 AM</td>
-        <td column span=3>Break</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Break</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Break</td>
+        <td>Break</td>
+        <td>Homework</td>
+        <td>Break</td>
+        <td>Homework</td>
+        <td>Break</td>
      </tr>
      <tr>
         <td>9:15 AM</td>
-        <td column span=3>MGT 365</td>
-        <td column span=3>Homework</td>
-        <td column span=3>MGT 365</td>
-        <td column span=3>Homework</td>
-        <td column span=3>MGT 365</td>
+        <td>MGT 365</td>
+        <td>Homework</td>
+        <td>MGT 365</td>
+        <td>Homework</td>
+        <td>MGT 365</td>
      </tr>
      <tr>
         <td>9:30 AM</td>
-        <td column span=3>MGT 365</td>
-        <td column span=3>Homework</td>
-        <td column span=3>MGT 365</td>
-        <td column span=3>Homework</td>
-        <td column span=3>MGT 365</td>
+        <td>MGT 365</td>
+        <td>Homework</td>
+        <td>MGT 365</td>
+        <td>Homework</td>
+        <td>MGT 365</td>
      </tr>
      <tr>
         <td>9:45 AM</td>
-        <td column span=3>MGT 365</td>
-        <td column span=3>Homework</td>
-        <td column span=3>MGT 365</td>
-        <td column span=3>Homework</td>
-        <td column span=3>MGT 365</td>
+        <td>MGT 365</td>
+        <td>Homework</td>
+        <td>MGT 365</td>
+        <td>Homework</td>
+        <td>MGT 365</td>
      </tr>
      <tr>
         <td>10:00 AM</td>
-        <td column span=3>MGT 365</td>
-        <td column span=3>Homework</td>
-        <td column span=3>MGT 365</td>
-        <td column span=3>Homework</td>
-        <td column span=3>MGT 365</td>
+        <td>MGT 365</td>
+        <td>Homework</td>
+        <td>MGT 365</td>
+        <td>Homework</td>
+        <td>MGT 365</td>
      </tr>
      <tr>
         <td>10:15 AM</td>
-        <td column span=3>Break</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Break</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Break</td>
+        <td>Break</td>
+        <td>Homework</td>
+        <td>Break</td>
+        <td>Homework</td>
+        <td>Break</td>
      </tr>
      <tr>
         <td>10:30 AM</td>
-        <td column span=3>Break</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Break</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Break</td>
+        <td>Break</td>
+        <td>Homework</td>
+        <td>Break</td>
+        <td>Homework</td>
+        <td>Break</td>
      </tr>
      <tr>
         <td>10:45 AM</td>
-        <td column span=3>Break</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Break</td>
-        <td column span=3>Homework</td>
-        <td column span=3>Break</td>
+        <td>Break</td>
+        <td>Homework</td>
+        <td>Break</td>
+        <td>Homework</td>
+        <td>Break</td>
      </tr>
      <tr>
         <td>11:00 AM</td>
-        <td column span=3>CS 130</td>
-        <td column span=3>Homework</td>
-        <td column span=3>CS 130</td>
-        <td column span=3>Homework</td>
-        <td column span=3>CS 130</td>
+        <td>CS 130</td>
+        <td>Homework</td>
+        <td>CS 130</td>
+        <td>Homework</td>
+        <td>CS 130</td>
      </tr>
      <tr>
         <td>11:15 AM</td>
-        <td column span=3>CS 130</td>
-        <td column span=3>Homework</td>
-        <td column span=3>CS 130</td>
-        <td column span=3>Homework</td>
-        <td column span=3>CS 130</td>
+        <td>CS 130</td>
+        <td>Homework</td>
+        <td>CS 130</td>
+        <td>Homework</td>
+        <td>CS 130</td>
      </tr>
      <tr>
         <td>11:30 AM</td>
-        <td column span=3>CS 130</td>
-        <td column span=3>Homework</td>
-        <td column span=3>CS 130</td>
-        <td column span=3>Homework</td>
-        <td column span=3>CS 130</td>
+        <td>CS 130</td>
+        <td>Homework</td>
+        <td>CS 130</td>
+        <td>Homework</td>
+        <td>CS 130</td>
      </tr>
      <tr>
         <td>11:45 AM</td>
-        <td column span=3>CS 130</td>
-        <td column span=3>Homework</td>
-        <td column span=3>CS 130</td>
-        <td column span=3>Homework</td>
-        <td column span=3>CS 130</td>
+        <td>CS 130</td>
+        <td>Homework</td>
+        <td>CS 130</td>
+        <td>Homework</td>
+        <td>CS 130</td>
      </tr>
      <tr>
         <td>12:00 PM</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
      </tr>
      <tr>
         <td>12:15 PM</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
      </tr>
      <tr>
         <td>12:30 PM</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
-        <td column span=3>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
      </tr>
      <tr>
         <td>12:45 PM</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
      </tr>
      <tr>
         <td>1:00 PM</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
      </tr>
      <tr>
         <td>1:15 PM</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
-        <td column span=3>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
+        <td>Nap</td>
      </tr>
      <tr>
         <td>1:30 PM</td>
-        <td column span=3>PE 101</td>
-        <td column span=3>Break</td>
-        <td column span=3>PE 101</td>
-        <td column span=3>Break</td>
-        <td column span=3>PE 101</td>
+        <td>PE 101</td>
+        <td>Break</td>
+        <td>PE 101</td>
+        <td>Break</td>
+        <td>PE 101</td>
      </tr>
      <tr>
         <td>1:45 PM</td>
-        <td column span=3>PE 101</td>
-        <td column span=3>Break</td>
-        <td column span=3>PE 101</td>
-        <td column span=3>Break</td>
-        <td column span=3>PE 101</td>
+        <td>PE 101</td>
+        <td>Break</td>
+        <td>PE 101</td>
+        <td>Break</td>
+        <td>PE 101</td>
      </tr>
      <tr>
         <td>2:00 PM</td>
-        <td column span=3>PE 101</td>
-        <td column span=3>Break</td>
-        <td column span=3>PE 101</td>
-        <td column span=3>Break</td>
-        <td column span=3>PE 101</td>
+        <td>PE 101</td>
+        <td>Break</td>
+        <td>PE 101</td>
+        <td>Break</td>
+        <td>PE 101</td>
      </tr>
      <tr>
         <td>2:15 PM</td>
-        <td column span=3>PE 101</td>
-        <td column span=3>Break</td>
-        <td column span=3>PE 101</td>
-        <td column span=3>Break</td>
-        <td column span=3>PE 101</td>
+        <td>PE 101</td>
+        <td>Break</td>
+        <td>PE 101</td>
+        <td>Break</td>
+        <td>PE 101</td>
      </tr>
      <tr>
         <td>2:30 PM</td>
-        <td column span=3>PE 101</td>
-        <td column span=3>Break</td>
-        <td column span=3>PE 101</td>
-        <td column span=3>Break</td>
-        <td column span=3>PE 101</td>
+        <td>PE 101</td>
+        <td>Break</td>
+        <td>PE 101</td>
+        <td>Break</td>
+        <td>PE 101</td>
      </tr>
      <tr>
         <td>2:45 PM</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
      </tr>
      <tr>
         <td>3:00 PM</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
      </tr>
      <tr>
         <td>3:15 PM</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
      </tr>
      <tr>
         <td>3:30 PM</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
      </tr>
      <tr>
         <td>3:45 PM</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
-        <td column span=3>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
+        <td>Break</td>
      </tr>
      <tr>
-             <td>4:00 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>4:00 PM</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>4:15 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>4:30 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>4:45 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>5:00 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>5:15 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>5:30 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>5:45 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>6:00 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>6:15 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>6:30 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>6:45 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>7:00 PM</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
-        <td column span=3>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
+        <td>Practice</td>
      </tr>
      <tr>
         <td>7:15 PM</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
      </tr>
      <tr>
         <td>7:30 PM</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
      </tr>
      <tr>
         <td>7:45 PM</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
-        <td column span=3>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
+        <td>Dinner</td>
      </tr>
      
 </table>

@@ -5,35 +5,39 @@
 <head>
 <title>BMI Calculator</title>
   
-<style>
+<style>{
   body {background-color:#999999;
   }
-  #result {display:inline;
-  }
+
 </style>
 </head>
 
 <body>
-
-<label for="textbox1">Enter weight in lbs</label>
-<input type="text" id="textbox1">
-<label for="textbox2">Enter height in inches</label>
-<input type="text" id="textbox2">
-<button onclick="convert();">Calculate BMI</button>
-<p id="result"></p>
   
-
-<script>
-convert=function() {
-textbox1 = document.querySelector("#textbox1");
-textbox2 = document.querySelector("#textbox2");
-weight = textbox1.value;
-height = textbox2.value;
-result = document.querySelector("#result");
-result.innerHTML=(weight * 703)/(height*height);
-}
-</script>
-  
+  <h1>BMI Calculator</h1>
+        
+    <label for="weightbox">Weight</label>
+    <input type="range" id="weightbox" value="100" min="50" max="300" onmousemove="calculatebmi();">
+    <label for="heightbox">Height</label>
+    <input type="range" id="heightbox" value="50" min="30" max="96" onmousemove="calculatebmi();">
+    
+    <h1 id="weightout">Weight: 100</h1>
+    <h1 id="heightout">Height: 50</h1>
+    <h1 id="bmiout">BMI: </h1>
+   
+    
+    <script>
+      calculatebmi=function(){
+        weight=document.querySelector("#weightbox").value;
+        height=document.querySelector("#heightbox").value;
+        
+        bmi=(weight*703)/(height*height)
+        
+        document.querySelector("#weightout").innerHTML="Weight: " + weight;
+        document.querySelector("#heightout").innerHTML="Height: " + height;
+        document.querySelector("#bmiout").innerHTML="BMI: " + bmi;
+        
+      }
+    </script>
   </body>
-  
 </html>

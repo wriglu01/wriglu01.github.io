@@ -1,38 +1,53 @@
 
 <html>
 <head>
+<title>Temperature Conversion</title>
+
 <style>
-#inline {display:inline;
-}
-body {background-color:#999999;
-}
-</style>
-<title>Celcius-Fahrenheit Converter</title>
+    #theslider {
+      width: 80%;
+    }
+  </style>
+
 </head>
-
 <body>
-
-<label for="textbox">Celsius</label>
-<input type="text" id="textbox">
-<button onclick="convert();">Convert</button>
-<p id="next"></p>
+<h1>Temperature Conversion</h1>
+<label for="slider">Degrees Celsius</label>
+<input type="range" min=-300 max=300 id="theslider" onmousemove="hello();" value=0>
+<h1 id="outputc">Degrees C: 0</h1>
+<h1 id="outputf">Degrees F: 32</h1>
+<h1 id="theindicator"></h1>
 
 
 <script>
 
-convert=function() {
-
-textbox = document.querySelector("#textbox");
-value = textbox.value;
-x = (value*1.8) + 32
-result = document.querySelector("#next");
-result.innerHTML=x, "degrees Fahrenheit";
-
-}
-
+    hello=function() {
+            theslider = document.querySelector("#theslider");
+            temperature = theslider.value;
+            theh1c = document.querySelector("#outputc");
+            theh1c.innerHTML = "Degrees C: " + temperature;
+            theh1f = document.querySelector("#outputf");
+            theh1f.innerHTML = "Degrees F: " + (temperature*1.8+32);
+   
+    if (temperature>32) {
+       theindicator=document.querySelector("#theindicator");
+       theindicator.innerHTML="Too Hot";
+       document.body.style.backgroundColor="orange";
+    }
+  if (temperature<00) {
+       theindicator=document.querySelector("#theindicator");
+       theindicator.innerHTML="Too Cold";
+       document.body.style.backgroundColor="lightblue";
+    }
+    if (temperature>=0 && temperature <=32) {
+       theindicator=document.querySelector("#theindicator");
+       theindicator.innerHTML="OK";
+       document.body.style.backgroundColor="silver";
+    }
+    }
+  
+  
 </script>
 
-
 </body>
-
 </html>
